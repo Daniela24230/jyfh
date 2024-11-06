@@ -1,0 +1,22 @@
+<head>
+    <meta charset="UTF-8">
+    <title>Драконы</title>
+</head>
+
+<body>
+ <nav>
+<ul>
+    <li><a href="#head1" target="_self">Как приручить дракона</a></li>
+	<li><a href="#head2" target="_self">Он дракон</a></li>
+	<li><a href="#head3" target="_self">Игра престолов</a></li>
+</ul>
+</nav>
+<section id="#head1">
+</section>
+
+<section id="#head2">
+</section>
+
+<section id="#head3">
+</section>
+</body>
